@@ -1,0 +1,4 @@
+.idea
+db.*
+.pyc
+__pycache__

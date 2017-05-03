@@ -1,0 +1,9 @@
+Hello,
+
+{{first_name}} {{last_name}}.
+
+Some time ago you have been registered in buddha test task app.
+Great news, your account is ready. You can login by using this pin: {{pin}}
+
+Best regards
+Michael Spirit

@@ -1,0 +1,9 @@
+Hello, manager.
+
+New client have been registered in our app. Please confirm his account when you have time.
+
+There is ({{ waiting }}) clients waiting for confirmation.
+
+Thank you,
+Best regards
+Michael Spirit

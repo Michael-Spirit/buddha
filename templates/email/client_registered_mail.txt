@@ -1,0 +1,10 @@
+Hello,
+
+{{first_name}} {{last_name}}.
+
+You have been registered in buddha test task app. Pls wait until manager confirm your account.
+After this you will receive your pin code password
+
+Thank you,
+Best regards
+Michael Spirit
