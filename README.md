@@ -24,3 +24,6 @@ Local deployment
 
 ### Run server
     $ python manage.py runserver
+
+### Swagger used as docs
+    $ 127.0.0.1/docs/
