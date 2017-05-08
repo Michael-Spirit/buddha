@@ -21,9 +21,15 @@ Local deployment
 
 ### Run tests
     $ python manage.py test
+    
+### Create superuser
+    $ python manage.py createsuperuser
 
 ### Run server
     $ python manage.py runserver
+    
+### Go to /admin, login as superuser and create manager user
+    $ localhost:8000/admin/
 
 ### Swagger used as docs
-    $ 127.0.0.1/docs/
+    $ localhost:8000/docs/
