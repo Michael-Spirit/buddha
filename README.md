@@ -31,5 +31,5 @@ Local deployment
 ### Go to /admin, login as superuser and create manager user
     $ localhost:8000/admin/
 
-### Swagger used as docs
+### Swagger used as docs. Login as manager to see all API views there.
     $ localhost:8000/docs/
